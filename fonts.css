@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Braveold Medium";
+   src: url("fonts/Braveold Medium.woff") format("woff"), url("fonts/Braveold Medium.eot") format("embedded-opentype"), url("fonts/Braveold Medium.ttf") format("truetype"), url("fonts/Braveold Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Braveold";
+   src: url("fonts/Braveold.woff") format("woff"), url("fonts/Braveold.eot") format("embedded-opentype"), url("fonts/Braveold.ttf") format("truetype"), url("fonts/Braveold.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
